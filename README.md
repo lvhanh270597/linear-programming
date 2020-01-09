@@ -6,4 +6,4 @@
 <code> 4x + 2y <= 60 </code>
 <code> 2x + 4y <= 48 </code>
 * Kết quả trả về là:
-<code> x = 12, y = 6, z = 132 </c
+<code> x = 12, y = 6, z = 132 </code>
